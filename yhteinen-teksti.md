@@ -1,1 +1,1 @@
-joojajaa
+artun ratkaisu
