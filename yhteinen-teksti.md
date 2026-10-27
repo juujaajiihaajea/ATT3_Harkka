@@ -1,1 +1,1 @@
-Projektin työnimi: Mikon ratkaisu
+tiimin ratkaisu
