@@ -1,1 +1,1 @@
-artun ratkaisu
+tiimin ratkaisu
