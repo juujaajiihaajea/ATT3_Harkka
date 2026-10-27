@@ -14,3 +14,6 @@ def tarkista_lampotila(temp):
 
 # Testiajo
 print(tarkista_lampotila(80.5))
+
+
+- **Tavoite:** Luotettava hälytysjärjestelmä ylikuumenemisen estämiseksi.
